@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
